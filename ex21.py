@@ -18,7 +18,7 @@ def divide(a, b):
     return a / b
 
 
-print("Let's o some math with functions!")
+print("Let's do some math with functions!")
 
 age = add(20, 7)
 height = subtract(180, 7)
